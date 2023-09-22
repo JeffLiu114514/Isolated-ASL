@@ -1,6 +1,5 @@
-Code submission for CSC249 final project
-Junfei Liu  jliu137@u.rochester.edu
-Chunhao Li  cli79@u.rochester.edu
+Computer Vision final project
+Junfei Liu
 
 The code folder will include the code or link to the public code we used for this projects. There are some notebooks 
 that are modified based on public notebooks. In this case, we will note reference at the beginning. Most of the
